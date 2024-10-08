@@ -1,0 +1,21 @@
+[2024-10-07T12:22:31.478Z] : [INFO] : -------------------------------------
+[2024-10-07T12:22:31.480Z] : [INFO] : Hello world
+[2024-10-07T12:22:31.485Z] : [INFO] : Server started at 8800 port
+[2024-10-07T12:22:35.478Z] : [INFO] : Request received : /mongotest
+[2024-10-07T12:22:35.500Z] : [INFO] : fetchMongoDocuments: Documents fetch successful
+[2024-10-07T12:22:35.529Z] : [INFO] : Request processing : fetchMongoDocuments
+[2024-10-07T12:23:02.307Z] : [INFO] : -------------------------------------
+[2024-10-07T12:23:02.309Z] : [INFO] : Hello world
+[2024-10-07T12:23:02.314Z] : [INFO] : Server started at 8800 port
+[07-10-2024 17:31:14] : [INFO] : -------------------------------------
+[07-10-2024 17:31:14] : [INFO] : Hello world
+[07-10-2024 17:31:14] : [INFO] : Server started at 8800 port
+[07-10-2024 17:31:29] : [INFO] : Request received : /mongotest
+[07-10-2024 17:31:29] : [INFO] : fetchMongoDocuments: Documents fetch successful
+[07-10-2024 17:31:29] : [INFO] : Request processing : fetchMongoDocuments
+[07-10-2024 17:36:38.505] : [INFO] : -------------------------------------
+[07-10-2024 17:36:38.522] : [INFO] : Hello world
+[07-10-2024 17:36:38.527] : [INFO] : Server started at 8800 port
+[07-10-2024 17:37:06.945] : [INFO] : Request received : /mongotest
+[07-10-2024 17:37:06.961] : [INFO] : fetchMongoDocuments: Documents fetch successful
+[07-10-2024 17:37:06.984] : [INFO] : Request processing : fetchMongoDocuments
